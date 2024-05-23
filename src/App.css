@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
+
+nav{
+    background-color: #333;
+    padding: 10px;
+    
+}
+
+nav ul{
+    text-align: end;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
